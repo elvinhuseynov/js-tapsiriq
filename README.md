@@ -1,1 +1,5 @@
-# js-tapsiriq
+1. Prompt vasitestle userden string goturun. Bu stringi ',' ile ayiraraq array-e cevirin → misal: 1,2,3 →> [1,2,3]
+2. Temperature Converter. [®, 20, 38] Bunlar Celstus formasinda gosterilib. Eynt zamanda her ikisini gosterin. [0, 20, 30] -> [{celstus: 0, fahrenheit: 32}, (celstus: 20 ......*] fahrenheit = celsius * 9 / 5 + 32
+3. const users = [(name: "Elvin", surname: "Huseynov"}, (name: "Ruslan", surname: "Mammadov"}] →> ['Elvin Huseynov', 'Ruslan Mammadov']
+4. Arraydekt butun elementler palindromdur yoxsa bunu yoxlayacaqsintz. Palindrom →> Ata →› Ata (palindrom) Baci -> icaß (Palindrom deyil). Sozu tersine cevirdikde ozune beraber olur. const array - [°121", "Ana", "Qardas")
+6. const array = ["121", "Ana", "Qardas"] Array-den palindrom olan elementleri filter ile gosterin. Minimum array uzunlugu. Vertlen array icerisindekt arraylerin hamisi verilen uzunluqdan boyukdurse true deyilse false Misal [[1,2), (4,2,31, [4,5,6,71] every methodu ile yoxlayin butun array-lerin uzunlugu 3-den hoyukdur]
